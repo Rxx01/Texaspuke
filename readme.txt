@@ -1,0 +1,1 @@
+德州扑克的比较程序，建了三个类，puke,pai,game，用函数compare比较
